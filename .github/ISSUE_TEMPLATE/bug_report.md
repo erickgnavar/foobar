@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Crea un report de error para poder solucionarlo
+about: Crea un reporte de error para poder solucionarlo
 title: ''
 labels: bug
 assignees: ''
